@@ -1,0 +1,3 @@
+displayName = Convenient Multitools
+author = kexfff
+version = 0.1
